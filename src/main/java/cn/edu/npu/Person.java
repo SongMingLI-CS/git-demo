@@ -1,3 +1,5 @@
-public static Person{
-  private string name;
+package cn.edu.npu;
+
+public class Person{
+  private String name;
 }
